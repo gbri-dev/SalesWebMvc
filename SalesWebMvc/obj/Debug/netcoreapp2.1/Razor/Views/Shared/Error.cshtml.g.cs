@@ -19,9 +19,8 @@ using SalesWebMvc;
 #line default
 #line hidden
 #line 2 "C:\temp\SalesWebMvc\SalesWebMvc\SalesWebMvc\Views\_ViewImports.cshtml"
-    using SalesWebMvc.Models;
-    using SalesWebMvc.Models.ViewModels;
-
+using SalesWebMvc.Models;
+using SalesWebMvc.Models.ViewModels;
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
