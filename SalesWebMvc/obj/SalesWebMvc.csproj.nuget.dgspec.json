@@ -10,7 +10,7 @@
         "projectUniqueName": "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
         "projectPath": "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
-        "packagesPath": "C:\\Users\\GT-Workstation\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\gabriel.silva\\.nuget\\packages\\",
         "outputPath": "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
@@ -18,7 +18,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\GT-Workstation\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -27,7 +27,8 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://api.nuget.org/v3/index.json": {},
+          "https://packagesource": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
