@@ -39,7 +39,7 @@ namespace SalesWebMvc.Services
             }
             catch (DbUpdateException e)
             {
-                throw new IntegrityException(e.Message);//coloque entre aspas a sua mensagem e retire o e.message "Can't delete seller because he/she has sales"
+                throw new IntegrityException("Can't delete seller because he/she has sales");//coloque entre aspas a sua mensagem e retire o e.Message "Can't delete seller because he/she has sales"
             }
         }
 
