@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
+    "C:\\temp\\Development\\Fundamentos do C#\\projetos\\aspNetMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
+    "C:\\temp\\Development\\Fundamentos do C#\\projetos\\aspNetMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectUniqueName": "C:\\temp\\Development\\Fundamentos do C#\\projetos\\aspNetMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "projectName": "SalesWebMvc",
-        "projectPath": "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
+        "projectPath": "C:\\temp\\Development\\Fundamentos do C#\\projetos\\aspNetMvc\\SalesWebMvc\\SalesWebMvc\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\gabriel.silva\\.nuget\\packages\\",
-        "outputPath": "C:\\temp\\projetos-back\\ws-csharp\\SalesWebMvc\\SalesWebMvc\\obj\\",
+        "outputPath": "C:\\temp\\Development\\Fundamentos do C#\\projetos\\aspNetMvc\\SalesWebMvc\\SalesWebMvc\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Componentes\\dotNet\\Components\\Offline Packages",
